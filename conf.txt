@@ -1,0 +1,15 @@
+Sender
+LED Pin 	12
+TxPin		9 - DI  
+MAX485 		DE/RE - VCC
+
+
+
+Receiver
+LED Pin		12
+RxPin		13 - RO
+MAX485 		DE/RE - GND
+
+
+
+
