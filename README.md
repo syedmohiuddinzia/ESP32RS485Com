@@ -27,7 +27,7 @@ RS-485, also known as TIA-485(-A) or EIA-485, is a standard defining the electri
 
 **Reference:**
 
-[Serial Communication](https://en.wikipedia.org/wiki/RS-485)
+[RS485 Communication](https://en.wikipedia.org/wiki/RS-485)
 
 # BreadBoard Diagram
 ![BreadBoard Diagram](https://github.com/syedmohiuddinzia/ESP32RS485Com/blob/main/ESP32RS485Com.png)
