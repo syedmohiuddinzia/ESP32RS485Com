@@ -19,9 +19,7 @@ On-board MAX485 chip is a low-power and slew-rate-limited transceiver used for R
 MAX485 PinoutDepending on RE and DE connection, the module works as receiver or transmitter.  Connected to VCC transmits data and connected to GND receives data. 
 The MAX485 Module is cheap. You can find lots of 5 unit for less than one euro. 
 
-[Max485 Module]
-
-(https://hallroad.org/max485-rs485-transceiver-module-in-pakistan.html)
+[Max485 Module](https://hallroad.org/max485-rs485-transceiver-module-in-pakistan.html)
 
 # Serial Communication
 
