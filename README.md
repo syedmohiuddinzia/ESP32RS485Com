@@ -21,7 +21,7 @@ The MAX485 Module is cheap. You can find lots of 5 unit for less than one euro.
 
 [Max485 Module](https://hallroad.org/max485-rs485-transceiver-module-in-pakistan.html)
 
-# Serial Communication
+# RS485 Communication
 
 RS-485, also known as TIA-485(-A) or EIA-485, is a standard defining the electrical characteristics of drivers and receivers for use in serial communications systems. Electrical signaling is balanced, and multipoint systems are supported. The standard is jointly published by the Telecommunications Industry Association and Electronic Industries Alliance (TIA/EIA). Digital communications networks implementing the standard can be used effectively over long distances and in electrically noisy environments. Multiple receivers may be connected to such a network in a linear, multidrop bus. These characteristics make RS-485 useful in industrial control systems and similar applications.
 
